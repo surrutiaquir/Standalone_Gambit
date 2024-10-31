@@ -1,0 +1,7 @@
+{
+    "makefile.configureOnOpen": true,
+    "files.associations": {
+        "matrixfunctions": "cpp",
+        "complex": "cpp"
+    }
+}
